@@ -250,6 +250,7 @@ export {
   getScheduleOverride,
   languageDirective,
   onAirRosterClause,
+  personaLanguages,
   pickOnAirSpeaker,
   renderDjPrompt,
   resolveActiveShow,
